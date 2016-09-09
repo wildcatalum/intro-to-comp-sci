@@ -20,10 +20,12 @@ def eyes():
         for i in range (1, 2):
                 print("|+ +  + +|")
         print("|+++  +++|")
+#code for asciiart robot eyes
 
 def gap():
         for i in range (1,2):
                 print("|        |")
+#gap function meant to give spacing between features of the robot's head.
 
 def mouth():
         print ("| |||||| |")
